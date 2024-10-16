@@ -462,7 +462,11 @@ public class CheckController {
 
 回复：888 进入技术交流群
 
-![my二维码](WechatIMG1367.jpg)
+
+<a href="https://kazjsfecs3y.feishu.cn/wiki/UK1Hw4HfZi9ZfwkqK66cggoFnng">
+    <img src="WechatIMG1367.jpg" width=20% />
+</a>
+
 
 
 
