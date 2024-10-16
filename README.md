@@ -458,9 +458,11 @@ public class CheckController {
 
 # 联系我
 
-欢迎添加我微信，可以免费提供面试帮助，交流|加群|朋友圈。
+欢迎添加我微信，可以免费提供面试帮助，交流|加群|朋友圈。 
 
-![my二维码](https://tva1.sinaimg.cn/large/007F3CC8ly1h1fh8itv2gj30by0byq3j.jpg)
+回复：888 进入技术交流群
+
+![my二维码](WechatIMG1367.jpg)
 
 
 
