@@ -2,7 +2,7 @@
 
 ---
 
-基于SSM+layui【爱车汽车租赁管理系统】
+基于SSM+layui【爱车汽车租赁管理系统】 `附讲解源码视频`[B站](https://space.bilibili.com/404747369)
 
 [点击进入永久仓库地址](https://github.com/Rodert/carRental-javapub.git)
 
